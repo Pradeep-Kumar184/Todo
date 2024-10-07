@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed on your machine:
    git clone https://github.com/Pradeep-Kumar184/todolist.git
 
 2. **Navigate to the Project Directory:**
-   cd todolidt
+   cd todolist
 3. **Install Dependencies:**
    npm install
 
